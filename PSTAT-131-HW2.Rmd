@@ -1,0 +1,13 @@
+---
+title: "PSTAT 131 - HW 2"
+author: "Ephets Head"
+date: "4/09/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
